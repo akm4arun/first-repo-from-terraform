@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-My first repo using terraform lab1
+My first repo using terraform
